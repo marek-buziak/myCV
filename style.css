@@ -155,13 +155,14 @@ body{
     width: 100%;
     background-color: #398ff9;
     padding: .5rem;
+    text-align: center;
 }
 
 .permission p{
     color: black;
     font-size: 1.1rem;
     opacity: .6;
-    text-align: center;
+    
 }
 
   .scrollUp{
